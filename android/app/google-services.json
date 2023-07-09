@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503078300957",
+    "firebase_url": "https://neurostimardueno-default-rtdb.firebaseio.com",
+    "project_id": "neurostimardueno",
+    "storage_bucket": "neurostimardueno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503078300957:android:e630a19525ecb7872e85f4",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503078300957-t7is4kik1obdjv4iiguiii4g962bvofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfPEqjlahhgpQYP6NQPgJ25ekhilyea0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503078300957-t7is4kik1obdjv4iiguiii4g962bvofg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
