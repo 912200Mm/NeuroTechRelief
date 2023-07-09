@@ -1,5 +1,5 @@
 # NeuroTechRelief
-![11](https://github.com/912200Mm/NeuroTechRelief/assets/103856066/b4e5d3e9-2d83-4e00-b5bf-39b83a1701d2)
+            ![11](https://github.com/912200Mm/NeuroTechRelief/assets/103856066/b4e5d3e9-2d83-4e00-b5bf-39b83a1701d2)
 
 Transcutaneous Electrical Nerve Stimulation (TENS) ‘’Portable device’’ (TENS) therapy relieves chronic and acute pain using low-voltage electrical current. The project aims to create a portable device using NeruoStimDuino and Arduino Due programmed with C++. The device will include an electric circuit and a TFT display for controlling the electrical pulses, and a mobile app for user convenience. Our goal is to provide pain relief for patients.
 ![photo_2023-07-09_06-47-28](https://github.com/912200Mm/NeuroTechRelief/assets/103856066/ae461084-d20e-4fba-852f-10bef8bd59ff)
