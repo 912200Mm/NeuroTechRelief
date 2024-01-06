@@ -29,3 +29,14 @@ In the future of the application, our own server and IP will be created so that 
 
 
 
+
+
+
+
+
+
+
+Note:
+
+We always welcome the help of others.  If you need advice or assistance, you can contact us at any time.  Don't hesitate at all.  You can use the attached tools and designs provided that you do not trade them or extract any profitable value from them, but rather only benefit from them and develop them.  Anyone who does otherwise exposes himself to legal accountability
+
